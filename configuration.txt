@@ -1,0 +1,26 @@
+[data paths]
+path_local =  ./
+path_org = ./data/train/org/
+path_gt = ./data/train/gt/
+
+train_imgs = train_imgs.hdf5
+train_gt = train_gt.hdf5
+
+[image props]
+N_train = 353
+n_channels = 3
+height = 460
+width = 166
+
+[data attributes]
+patch_height = 32
+patch_width = 32
+patch_num = 14120
+
+[training settings]
+N_epochs = 1000
+batch_size = 32
+
+[testing settings]
+stride_height = 3
+stride_width = 3
