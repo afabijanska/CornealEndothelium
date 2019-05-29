@@ -30,13 +30,13 @@ Python 3.6, Tensorflow, Keras
 
 <pre><code>
 ├───project_dir<br>
-    └───data<br>
-        └───test<br>
-        |   └───org<br>
-        |   └───preds<br>
-        └───train
-            |__org<br>
-            |__bw<br>
+    └───data<br>            # data directory
+        └───test<br>        # test images
+        |   └───org<br>     # original images of corneal endothelium
+        |   └───preds<br>   # images predicted by the network
+        └───train           # train images
+            └───org<br>     # original images of corneal endothelium
+            └───bw<br>      # ground truths
 </code></pre>
 
 # Contact
