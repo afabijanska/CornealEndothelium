@@ -28,6 +28,8 @@ Python 3.6, Tensorflow, Keras
 
 ## Data organization
 
+Organize your data as below. For training pairs of the corresponding original and ground truth files should be the same name, but located in different directories.
+
 <pre><code>
 ├───project_dir<br>
     └───data<br>                    # data directory
@@ -37,7 +39,7 @@ Python 3.6, Tensorflow, Keras
         |   |   testFile2.png <br>
         |   |   testFile3.png <br>
         |   └───preds<br>           # images predicted by the network
-        └───train                 # train images
+        └───train                # train images
             └───org<br>             # original images of corneal endothelium
             |   trainFile1.png <br>
             |   trainFile2.png <br>
