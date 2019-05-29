@@ -28,6 +28,17 @@ Python 3.6, Tensorflow, Keras
 
 ## Data organization
 
+<pre><code>
+|__project_dir<br>
+    |__data<br>
+        |__test<br>
+            |__org<br>
+            |__preds<br>
+        |__train
+            |__org<br>
+            |__bw<br>
+</code><pre>
+
 # Contact
 
 <b>Anna Fabijańska</b> <br>
