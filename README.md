@@ -30,19 +30,19 @@ Python 3.6, Tensorflow, Keras
 
 <pre><code>
 ├───project_dir<br>
-    └───data<br>                  # data directory
-        └───test<br>              # test images
-        |   └───org<br>           # original images of corneal endothelium
+    └───data<br>                    # data directory
+        └───test<br>                # test images
+        |   └───org<br>             # original images of corneal endothelium
                 testFile1.png <br>
                 testFile2.png <br>
                 testFile3.png <br>
-        |   └───preds<br>         # images predicted by the network
-        └───train                 # train images
-            └───org<br>           # original images of corneal endothelium
+        |   └───preds<br>           # images predicted by the network
+        └───train                   # train images
+            └───org<br>             # original images of corneal endothelium
                 trainFile1.png <br>
                 trainFile2.png <br>
                 trainFile3.png <br>
-            └───bw<br>            # ground truths (black = 0, white = 255)
+            └───bw<br>              # ground truths (black = 0, white = 255)
                 trainFile1.png <br>
                 trainFile2.png <br>
                 trainFile3.png <br>
