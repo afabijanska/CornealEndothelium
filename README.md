@@ -20,7 +20,15 @@
   url 	  = {https://www.sciencedirect.com/science/article/pii/S0933365718300575}<br>
 }</code></pre>
 
-# Contact:
+# Running the code
+
+## Prerequisites
+
+Python 3.6, Tensorflow, Keras  
+
+## Data organization
+
+# Contact
 
 <b>Anna Fabijańska</b> <br>
 Institute of Applied Computer Science <br>
