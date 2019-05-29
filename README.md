@@ -7,17 +7,17 @@
 </ul>
 
 <pre><code>@article{Fabijanska2018,<br>
-	author 	= {Anna Fabija\'{n}ska}, <br>
-	title 	= {Segmentation of corneal endothelium images using a U-Net-based convolutional neural network},<br>
-	journal = {Artificial Intelligence in Medicine},<br>
-	volume 	= {88},<br>
-	number 	= {},<br>
-	pages 	= {1-13},<br>
-	year 	= {2018},<br>
-	note 	= {},</br>
-	issn 	= {0933-3657},<br>
-	doi 	= {https://doi.org/10.1016/j.artmed.2018.04.004}, <br>
-	url 	= {https://www.sciencedirect.com/science/article/pii/S0933365718300575}<br>
+  author  = {Anna Fabija\'{n}ska}, <br>
+  title   = {Segmentation of corneal endothelium images using a U-Net-based convolutional neural network},<br>
+  journal = {Artificial Intelligence in Medicine},<br>
+  volume  = {88},<br>
+  number  = {},<br>
+  pages   = {1-13},<br>
+  year 	  = {2018},<br>
+  note 	  = {},</br>
+  issn 	  = {0933-3657},<br>
+  doi 	  = {https://doi.org/10.1016/j.artmed.2018.04.004}, <br>
+  url 	  = {https://www.sciencedirect.com/science/article/pii/S0933365718300575}<br>
 }</code></pre>
 
 # Contact:
