@@ -8,7 +8,8 @@ This repopsitory contains a source code of algorithm for corneal endothelium ima
 
 # Contact:
 
-Anna Fabijańska
-Institute of Applied Computer Science
-Lodz University of Technology
-e-mail: anna.fabijanska@p.lodz.pl
+Anna Fabijańska <br>
+Institute of Applied Computer Science <br>
+Lodz University of Technology <br>
+e-mail: anna.fabijanska@p.lodz.pl <br>
+http://an-fab.kis.p.lodz.pl
