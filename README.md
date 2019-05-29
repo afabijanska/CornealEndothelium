@@ -29,15 +29,15 @@ Python 3.6, Tensorflow, Keras
 ## Data organization
 
 <pre><code>
-|__project_dir<br>
-    |__data<br>
-        |__test<br>
-            |__org<br>
-            |__preds<br>
-        |__train
+├───project_dir<br>
+    └───data<br>
+        └───test<br>
+        |   └───org<br>
+        |   └───preds<br>
+        └───train
             |__org<br>
             |__bw<br>
-</code><pre>
+</code></pre>
 
 # Contact
 
