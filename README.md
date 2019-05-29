@@ -6,9 +6,7 @@ This repopsitory contains a source code of algorithm for corneal endothelium ima
 <li> <b>Fabijańska A.</b>: <i>Segmentation of Corneal Endothelium Images Using a U-Net-based Convolutional Neural Network</i>, Artificial Intelligence In Medicine, 88:1-13, 2018, doi:10.1016/j.artmed.2018.04.004
 </ul>
 
-<code><pre>
-  
-@article{Fabijanska2018,<br>
+<pre><code>@article{Fabijanska2018,<br>
 	author 	= {Anna Fabija\'{n}ska}, <br>
 	title 	= {Segmentation of corneal endothelium images using a U-Net-based convolutional neural network},<br>
 	journal = {Artificial Intelligence in Medicine},<br>
@@ -21,8 +19,7 @@ This repopsitory contains a source code of algorithm for corneal endothelium ima
 	doi 	= {https://doi.org/10.1016/j.artmed.2018.04.004}, <br>
 	url 	= {https://www.sciencedirect.com/science/article/pii/S0933365718300575}<br>
 }
-
-</pre></code>
+</code></pre>
 
 # Contact:
 
