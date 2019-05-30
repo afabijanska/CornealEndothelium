@@ -54,8 +54,8 @@ Organize your data as below. For training, keep the filenames consistent (an ori
 
 <ul>
   <li> <b>configuration.txt</b> - file to be edited; contains data paths and train/test setings 
-  <li> <b>prepare_train_set.py</b> - script for extracting random patches from train images and save them as hdf5 files (to be run first)
-  <li> <b>training.py</b> - script for training U-Net with data loaded from hdf5 files (to be run second)
+  <li> <b>prepare_train_set.py</b> - script for extracting random patches from train images and saveing them as hdf5 files (to be run first)
+  <li> <b>training.py</b> - script for training U-Net with patches loaded from hdf5 files (to be run second)
 <li> <b>predict.py</b> - script for performing image segmentation (to be run third)
   <li> <b>helpers.py</b> - some helper functions for reading/writing data
 </ul>
