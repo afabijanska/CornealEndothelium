@@ -60,6 +60,10 @@ Organize your data as below. For training, keep the filenames consistent (an ori
   <li> <b>helpers.py</b> - some helper functions for reading/writing data
 </ul>
 
+# More
+
+Please visit: http://an-fab.kis.p.lodz.pl/cornea/
+
 # Contact
 
 <b>Anna Fabijańska</b> <br>
