@@ -28,7 +28,7 @@ Python 3.6, Tensorflow, Keras
 
 ## Data organization
 
-Organize your data as below. For training, keep the filenames consistent (an original image and the correspongind ground truth should be files of the same name saved in diifferent locations).
+Organize your data as below. For training, keep the filenames consistent (an original image and the corresponging ground truth should be files of the same name saved in diifferent locations).
 
 <pre><code>
 ├───project_dir<br>
